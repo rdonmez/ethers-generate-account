@@ -9,7 +9,7 @@ $ npm install
 
 ## 2. Generate Accounts
 ```shell 
-$ npx hardhat run scripts/generate-accounts.js
+$ npx hardhat run scripts/generate.js
 ```
 
 Copy the console result. 
@@ -23,6 +23,6 @@ ACCOUNT_MNEMONIC={MNEMONIC}
 
 ## 4. Print Accounts
 ```shell 
-$ npx hardhat run scripts/print-accounts.js
+$ npx hardhat run scripts/print.js
 ```
 
