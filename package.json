@@ -17,5 +17,8 @@
     "dotenv": "^16.0.2",
     "ethers": "^5.7.0",
     "hardhat": "^2.11.1"
+  },
+  "dependencies": {
+    "csv-writer": "^1.6.0"
   }
 }
